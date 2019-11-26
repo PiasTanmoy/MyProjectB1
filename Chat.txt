@@ -1,2 +1,3 @@
 Pias: Welcome to class CSE 310 B1
 Rezwan: Hello
+Pias: Where is the other member?
